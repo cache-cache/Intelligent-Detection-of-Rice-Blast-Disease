@@ -1,0 +1,1 @@
+# Intelligent-Detection-of-Rice-Blast-Disease
